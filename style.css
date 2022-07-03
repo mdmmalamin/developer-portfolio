@@ -21,7 +21,7 @@ section{
     text-decoration: none;
     color: #fff;
     font-weight: 700;
-    background-image: linear-gradient(red, tomato);
+    background-image: linear-gradient(#f1ab28e7, tomato);
     padding: 10px 40px;
     border-radius: 5px;
 }
