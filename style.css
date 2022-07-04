@@ -21,6 +21,7 @@ h2{
 }
 .half-width img{
     width: 80%;
+    padding: 5%;
 }
 .hire-botton{
     text-decoration: none;
