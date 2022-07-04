@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .orange-color{
     color: orange;
 }
@@ -35,4 +38,33 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+.experience{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.h1padding{
+    padding-left: 2%;
+}
+.card{
+    text-align: ;
+    width: 40%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 7px 40px #585858;
+}
+#pro{
+    border-left: 8px solid tomato;
+    /*border-image: linear-gradient(red, blue)10;*/
+}
+#baby{
+    border-left: 8px solid royalblue;
+}
+footer{
+    text-align: center;
 }
